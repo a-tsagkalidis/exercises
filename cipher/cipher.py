@@ -1,3 +1,9 @@
+"""
+A script that can encrypt any US english text, using
+Ceasar's cipher logic. The user should run the command
+and pass an integer key as a command line argument, that
+it will be used as the swifting value in the alphabet.
+"""
 import sys
 
 
