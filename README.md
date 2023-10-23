@@ -1,4 +1,4 @@
-# Python exercises for noobs in Python
+# Python exercises for beginners
 <li>Blackjack</li>
 <li>Cipher</li>
 <li>Coffee</li>
