@@ -1,2 +1,5 @@
-# 100-days-of-Python
-Exercises from the Udemy courses "100 Days of Code: The Complete Python Pro Bootcamp for 2023"
+# Python exercises for noobs in Python
+<li>Blackjack</li>
+<li>Cipher</li>
+<li>Coffee</li>
+<li>Tic Tac Toe</li>

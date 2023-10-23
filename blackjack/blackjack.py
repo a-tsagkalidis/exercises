@@ -1,8 +1,8 @@
 import os
 import time
+import random
 from art import logo
 from termcolor import colored
-import random
 
 game_is_on = True
 

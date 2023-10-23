@@ -44,3 +44,4 @@ if __name__ == "__main__":
     check_usage(sys.argv)
     for character in input("plaintext: "):
         print(rotate(character, int(sys.argv[1])), end="")
+    print()
